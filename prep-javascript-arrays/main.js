@@ -14,4 +14,4 @@ console.log('The length of the array is:', languages.length);
 
 const lastElement = languages.length - 1;
 
-console.log('The length of the array is:', languages[lastElement]);
+console.log('The last element of the array is:', languages[lastElement]);
